@@ -1,4 +1,4 @@
-# Timed word formation Scrabble
+# Timed word formation scrabble
 
 
 There are 98 letters, and 2 players each receive 7 letters, with the number of rounds varying based on time management. 
